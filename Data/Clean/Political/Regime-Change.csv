@@ -1,0 +1,354 @@
+Country,Year,RC
+Afghanistan,1978,1.0
+Afghanistan,1979,
+Afghanistan,1992,1.0
+Afghanistan,1993,
+Afghanistan,1994,
+Afghanistan,1995,
+Afghanistan,1996,
+Afghanistan,2001,1.0
+Afghanistan,2002,
+Albania,1996,0.0
+Algeria,1992,0.0
+Angola,1992,1.0
+Angola,1993,
+Angola,1994,
+Angola,1995,
+Angola,1996,
+Angola,1997,
+Argentina,1966,0.0
+Argentina,1976,0.0
+Armenia,1995,0.0
+Armenia,1996,
+Azerbaijan,1993,0.0
+Azerbaijan,1994,
+Azerbaijan,1995,
+Benin,1963,0.0
+Benin,1964,
+Benin,1965,
+Benin,1972,0.0
+Burkina Faso,1980,0.0
+Belarus,1995,0.0
+Belarus,1996,
+Bangladesh,1974,0.0
+Bangladesh,1975,
+Bangladesh,2007,0.0
+Bangladesh,2018,0.0
+Bosnia,1992,1.0
+Bosnia,1993,
+Bosnia,1994,
+Bosnia,1995,
+Brazil,1961,0.0
+Brazil,1962,
+Brazil,1963,
+Brazil,1964,
+Brazil,1965,
+Burundi,1963,0.0
+Burundi,1964,
+Burundi,1965,
+Burundi,1966,
+Burundi,1993,1.0
+Burundi,1994,
+Burundi,1995,
+Burundi,1996,
+Burundi,2015,0.0
+Cambodia,1975,1.0
+Cambodia,1976,
+Cambodia,1997,0.0
+Cambodia,2017,0.0
+Central African Republic,2003,0.0
+Central African Republic,2013,1.0
+Central African Republic,2014,
+Central African Republic,2015,
+Central African Republic,2016,
+Chad,1979,1.0
+Chad,1980,
+Chad,1981,
+Chad,1982,
+Chad,1983,
+Chad,1984,
+Chile,1973,0.0
+Comoros,1976,0.0
+Comoros,1995,1.0
+Comoros,1996,
+Comoros,1999,0.0
+Comoros,2018,0.0
+Congo-Brazzaville,1963,0.0
+Congo-Brazzaville,1997,0.0
+Cuba,1952,0.0
+Cuba,1953,
+Cuba,1954,
+Cuba,1955,
+Cuba,1959,1.0
+Cuba,1960,
+Cuba,1961,
+Cyprus,1963,1.0
+Cyprus,1964,
+Cyprus,1965,
+Cyprus,1966,
+Cyprus,1967,
+Cyprus,1968,
+Cyprus,1974,1.0
+Czechoslovakia,1968,1.0
+Czechoslovakia,1969,
+Dominican Republic,1963,0.0
+Dominican Republic,1964,
+Dominican Republic,1965,
+Dominican Republic,1966,
+Ecuador,1970,0.0
+Ecuador,1971,
+Ecuador,1972,
+Equatorial Guinea,1969,0.0
+Ethiopia,1974,1.0
+Ethiopia,1975,
+Ethiopia,1991,1.0
+Ethiopia,1992,
+Ethiopia,1993,
+Fiji,1987,0.0
+Fiji,2006,0.0
+France,1958,0.0
+Gambia,1994,0.0
+Ghana,1972,0.0
+Ghana,1981,0.0
+Guinea-Bissau,1998,1.0
+Guinea-Bissau,1999,
+Guinea-Bissau,2003,0.0
+Guinea-Bissau,2012,0.0
+Greece,1967,0.0
+Guyana,1978,0.0
+Guyana,1979,
+Guyana,1980,
+Haiti,1991,0.0
+Haiti,1999,0.0
+Haiti,2000,
+Haiti,2010,1.0
+Haiti,2011,
+Haiti,2012,
+Haiti,2013,
+Haiti,2014,
+Haiti,2015,
+Haiti,2016,
+Hungary,1956,1.0
+Hungary,1957,
+Indonesia,1957,0.0
+Indonesia,1958,
+Indonesia,1959,
+Iran,1953,0.0
+Iran,1954,
+Iran,1955,
+Iran,1979,1.0
+Iran,1980,
+Iran,1981,
+Iran,1982,
+Iran,2004,0.0
+Iraq,2003,1.0
+Ivory Coast,2002,1.0
+Ivory Coast,2003,
+Ivory Coast,2004,
+Ivory Coast,2005,
+Ivory Coast,2006,
+Ivory Coast,2007,
+Ivory Coast,2008,
+Ivory Coast,2009,
+Ivory Coast,2010,
+Ivory Coast,2011,
+Jordan,1957,0.0
+Kenya,1969,0.0
+Laos,1960,1.0
+Laos,1961,
+Laos,1962,
+Laos,1963,
+Laos,1964,
+Laos,1965,
+Laos,1966,
+Laos,1967,
+Laos,1968,
+Laos,1969,
+Laos,1970,
+Laos,1971,
+Laos,1972,
+Laos,1973,
+Laos,1974,
+Laos,1975,
+Liberia,1990,1.0
+Liberia,1991,
+Liberia,1992,
+Liberia,1993,
+Liberia,1994,
+Liberia,1995,
+Liberia,1996,
+Lebanon,1975,1.0
+Lebanon,1976,
+Lebanon,1977,
+Lebanon,1978,
+Lebanon,1979,
+Lebanon,1980,
+Lebanon,1981,
+Lebanon,1982,
+Lebanon,1983,
+Lebanon,1984,
+Lebanon,1985,
+Lebanon,1986,
+Lebanon,1987,
+Lebanon,1988,
+Lebanon,1989,
+Lebanon,1990,
+Lesotho,1970,0.0
+Lesotho,1998,1.0
+Lesotho,1999,
+Libya,2011,1.0
+Libya,2012,
+Libya,2013,
+Libya,2014,
+Libya,2015,
+Libya,2016,
+Libya,2017,
+Libya,2018,
+Mauritania,2008,0.0
+Madagascar,2009,0.0
+Malaysia,1969,0.0
+Mali,2012,1.0
+Mali,2013,
+Morocco,1965,0.0
+Myanmar (Burma),1962,0.0
+Nepal,1960,0.0
+Nepal,2002,0.0
+Nicaragua,1979,1.0
+Nicaragua,1980,
+Nicaragua,1981,
+Nigeria,1964,0.0
+Nigeria,1965,
+Nigeria,1966,
+Nigeria,1984,0.0
+Niger,1996,0.0
+Niger,2009,0.0
+Pakistan,1977,0.0
+Pakistan,1999,0.0
+Panama,1968,0.0
+Peru,1962,0.0
+Peru,1968,0.0
+Peru,1992,0.0
+Philippines,1969,0.0
+Philippines,1970,
+Philippines,1971,
+Philippines,1972,
+Pakistan,1958,0.0
+Pakistan,1971,1.0
+Korea South,1961,0.0
+Korea South,1972,0.0
+Rwanda,1994,1.0
+El Salvador,1977,0.0
+Senegal,1962,0.0
+Senegal,1963,
+Sierra Leone,1967,0.0
+Sierra Leone,1971,0.0
+Sierra Leone,1997,1.0
+Sierra Leone,1998,
+Sierra Leone,1999,
+Sierra Leone,2000,
+Sierra Leone,2001,
+Sierra Leone,2002,
+Singapore,1963,0.0
+Singapore,1964,
+Singapore,1965,
+Solomon Islands,2000,1.0
+Solomon Islands,2001,
+Solomon Islands,2002,
+Solomon Islands,2003,
+Somalia,1969,0.0
+Somalia,1991,1.0
+Somalia,1992,
+Somalia,1993,
+Somalia,1994,
+Somalia,1995,
+Somalia,1996,
+Somalia,1997,
+Somalia,1998,
+Somalia,1999,
+Somalia,2000,
+Somalia,2001,
+Somalia,2002,
+Somalia,2003,
+Somalia,2004,
+Somalia,2005,
+Somalia,2006,
+Somalia,2007,
+Somalia,2008,
+Somalia,2009,
+Somalia,2010,
+Somalia,2011,
+Somalia,2012,
+South Sudan,2013,1.0
+South Sudan,2014,
+South Sudan,2015,
+South Sudan,2016,
+South Sudan,2017,
+South Sudan,2018,
+Sudan,1958,0.0
+Sudan,1969,0.0
+Sudan,1970,
+Sudan,1971,
+Sudan,1989,0.0
+Suriname,1980,0.0
+Suriname,1981,
+Suriname,1982,
+Swaziland,1973,0.0
+Syria,1961,0.0
+Syria,1962,
+Syria,1963,
+Syria,1964,
+Syria,1965,
+Syria,1966,
+Thailand,1971,0.0
+Thailand,1976,0.0
+Thailand,2006,0.0
+Thailand,2014,0.0
+Turkey,1971,0.0
+Turkey,1980,0.0
+Turkey,2014,0.0
+Turkey,2015,
+Turkey,2016,
+Uganda,1966,0.0
+Uganda,1967,
+Uganda,1968,
+Uganda,1969,
+Uganda,1985,0.0
+Uganda,1986,
+Ukraine,2014,1.0
+Uruguay,1971,0.0
+Uruguay,1972,
+Uruguay,1973,
+USSR,1991,1.0
+Venezuela,2017,0.0
+Yemen,2014,1.0
+Yemen,2015,
+Yemen,2016,
+Yemen,2017,
+Yemen,2018,
+Yugoslavia,1991,1.0
+Congo-Kinshasa,1960,1.0
+Congo-Kinshasa,1961,
+Congo-Kinshasa,1962,
+Congo-Kinshasa,1963,
+Congo-Kinshasa,1964,
+Congo-Kinshasa,1965,
+Congo-Kinshasa,1992,1.0
+Congo-Kinshasa,1993,
+Congo-Kinshasa,1994,
+Congo-Kinshasa,1995,
+Congo-Kinshasa,1996,
+Congo-Kinshasa,1997,
+Congo-Kinshasa,1998,
+Congo-Kinshasa,1999,
+Congo-Kinshasa,2000,
+Congo-Kinshasa,2001,
+Congo-Kinshasa,2002,
+Congo-Kinshasa,2003,
+Congo-Kinshasa,2017,0.0
+Zambia,1968,0.0
+Zambia,1969,
+Zambia,1970,
+Zambia,1971,
+Zambia,1972,
+Zambia,1996,0.0
+Zimbabwe,1987,0.0
