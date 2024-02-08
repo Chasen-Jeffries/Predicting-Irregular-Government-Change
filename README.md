@@ -1,7 +1,7 @@
 # 🌍 Predicting Major Political Instability
 
 ## 📋 Project Overview
-This project aims to forecast the impact of political instability in countries worldwide. Utilizing a dataset spanning 20 years and encompassing 30 variables primarily from the World Bank, the project will employ various machine learning models to assess the risk of such events. The variables are categorized into three groups: economic factors, international relations, and political factors.
+This project aims to forecast the impact of political instability in countries worldwide. Utilizing a dataset spanning 20 years and encompassing 30 variables primarily from the World Bank, the project will employ various machine learning models to assess the risk of such events. The variables are categorized into three groups: economic factors, international relations, and political factors. By accurately predicting major political instability in nations before they occur, this initiative seeks to provide valuable insights for preemptive measures and strategic planning.
 
 ## 📊 Data
 - **Sources**: World Bank, IMF, Barro-Lee...
